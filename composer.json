@@ -1,6 +1,6 @@
 {
-    "name": "finnhub/client",
-    "version": "1.1.17",
+    "name": "misterspelik/finnhub-client",
+    "version": "1.1.19",
     "description": "Official Finnhub stock API PHP library. https://finnhub.io/",
     "keywords": [
         "openapitools",
