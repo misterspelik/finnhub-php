@@ -17,7 +17,7 @@ In composer.json:
 ```json
 {
   "require": {
-    "finnhub/client": "1.1.17"
+    "misterspelik/finnhub-client": "1.1.18"
   }
 }
 ```
