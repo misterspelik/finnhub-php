@@ -2,7 +2,7 @@
 
 - Finnhub php api clent
 - API version: 1.0.0
-- Package version: 1.1.17
+- Package version: 1.1.19
 
 ## Requirements
 
@@ -17,7 +17,7 @@ In composer.json:
 ```json
 {
   "require": {
-    "misterspelik/finnhub-client": "1.1.18"
+    "misterspelik/finnhub-client": "1.1.19"
   }
 }
 ```
